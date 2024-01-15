@@ -1,0 +1,3 @@
+#!/bin/bash
+pyfile=${PYFILE%.py}
+python3 -m py_compile "$PYFILE" && mv "${pyfile}.pyc" "${pyfile}c"

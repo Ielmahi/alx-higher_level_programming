@@ -1,6 +1,3 @@
 #!/usr/bin/python3
-start = 97
-
-while start <= 122:
-    print("{}".format(chr(start)), end='')
-    start += 1
+for character in range(97, 123):
+    print("{:c}".format(character), end='')

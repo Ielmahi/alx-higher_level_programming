@@ -52,4 +52,11 @@ In this project, I learned about importing and using functions and creating modu
 
 * **9. Fast alphabet**
   * [103-fast_alphabet.py](./103-fast_alphabet.py): Python program that prints the alphabet in uppercase, followed by a new line.
-  * Without using loops, conditoinals, `str.join()`, string literals, or system calls.
+  * Without using loops, conditoinals, `str.join()`, string literals, or system call
+
+
+## Author
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)
